@@ -438,7 +438,7 @@
 		"grpc-health-check": "^2.0.2",
 		"iconv-lite": "^0.6.3",
 		"ignore": "^7.0.3",
-		"image-size": "^2.0.2",
+		"image-size": "^2.0.3",
 		"isbinaryfile": "^5.0.2",
 		"jschardet": "^3.1.4",
 		"mammoth": "^1.11.0",
